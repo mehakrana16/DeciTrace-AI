@@ -1,0 +1,238 @@
+{
+  "reference_date": "2026-09-26",
+  "generated_at": "2026-09-26T06:25:12.793587",
+  "seed": 20260926,
+  "counts": {
+    "customers": 28,
+    "sales": 1729,
+    "usage": 2760,
+    "support_tickets": 25,
+    "business_notes": 50
+  },
+  "customers": [
+    {
+      "customer_id": "C001",
+      "customer_name": "Vantage Health",
+      "archetype": "low_value",
+      "expected_priority": "LOW",
+      "account_value": 10854.53,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C002",
+      "customer_name": "Quanta Labs",
+      "archetype": "healthy",
+      "expected_priority": "LOW",
+      "account_value": 886601.04,
+      "segment": "Enterprise"
+    },
+    {
+      "customer_id": "C003",
+      "customer_name": "Northwind Partners",
+      "archetype": "seasonal_dip",
+      "expected_priority": "LOW",
+      "account_value": 112547.12,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C004",
+      "customer_name": "Lumina Technologies",
+      "archetype": "healthy",
+      "expected_priority": "LOW",
+      "account_value": 41664.18,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C005",
+      "customer_name": "Cobalt Labs",
+      "archetype": "seasonal_dip",
+      "expected_priority": "LOW",
+      "account_value": 239136.9,
+      "segment": "Enterprise"
+    },
+    {
+      "customer_id": "C006",
+      "customer_name": "Pinnacle Group",
+      "archetype": "new_customer",
+      "expected_priority": "LOW",
+      "account_value": 332204.41,
+      "segment": "Enterprise"
+    },
+    {
+      "customer_id": "C007",
+      "customer_name": "Meridian Manufacturing",
+      "archetype": "declining_usage",
+      "expected_priority": "MEDIUM",
+      "account_value": 130408.23,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C008",
+      "customer_name": "Upland Holdings",
+      "archetype": "new_customer",
+      "expected_priority": "LOW",
+      "account_value": 15685.65,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C009",
+      "customer_name": "Novaris Manufacturing",
+      "archetype": "new_customer",
+      "expected_priority": "LOW",
+      "account_value": 33019.57,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C010",
+      "customer_name": "Summit Energy",
+      "archetype": "growth",
+      "expected_priority": "LOW",
+      "account_value": 216611.47,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C011",
+      "customer_name": "Northwind Corp",
+      "archetype": "growth",
+      "expected_priority": "LOW",
+      "account_value": 487527.81,
+      "segment": "Enterprise"
+    },
+    {
+      "customer_id": "C012",
+      "customer_name": "Blue Harbor Retail",
+      "archetype": "support_escalation",
+      "expected_priority": "MEDIUM",
+      "account_value": 85135.57,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C013",
+      "customer_name": "Vertex Retail",
+      "archetype": "healthy",
+      "expected_priority": "LOW",
+      "account_value": 24058.03,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C014",
+      "customer_name": "Zenith Logistics",
+      "archetype": "declining_usage",
+      "expected_priority": "MEDIUM",
+      "account_value": 140709.37,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C015",
+      "customer_name": "Summit Logistics",
+      "archetype": "churn_risk",
+      "expected_priority": "HIGH",
+      "account_value": 636737.75,
+      "segment": "Enterprise"
+    },
+    {
+      "customer_id": "C016",
+      "customer_name": "Onyx Corp",
+      "archetype": "churn_risk",
+      "expected_priority": "HIGH",
+      "account_value": 136042.07,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C017",
+      "customer_name": "Everline Manufacturing",
+      "archetype": "declining_usage",
+      "expected_priority": "MEDIUM",
+      "account_value": 16527.09,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C018",
+      "customer_name": "Northwind Logistics",
+      "archetype": "silent_churn",
+      "expected_priority": "HIGH",
+      "account_value": 208502.35,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C019",
+      "customer_name": "Helios Systems",
+      "archetype": "support_escalation",
+      "expected_priority": "MEDIUM",
+      "account_value": 89711.24,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C020",
+      "customer_name": "Solstice Industries",
+      "archetype": "low_value",
+      "expected_priority": "LOW",
+      "account_value": 16734.78,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C021",
+      "customer_name": "Stonebridge Systems",
+      "archetype": "growth",
+      "expected_priority": "LOW",
+      "account_value": 130723.53,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C022",
+      "customer_name": "Aurora Systems",
+      "archetype": "support_escalation",
+      "expected_priority": "MEDIUM",
+      "account_value": 49879.96,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C023",
+      "customer_name": "Arbor Health",
+      "archetype": "silent_churn",
+      "expected_priority": "HIGH",
+      "account_value": 84323.17,
+      "segment": "Mid-Market"
+    },
+    {
+      "customer_id": "C024",
+      "customer_name": "Arbor Group",
+      "archetype": "support_escalation",
+      "expected_priority": "MEDIUM",
+      "account_value": 676825.86,
+      "segment": "Enterprise"
+    },
+    {
+      "customer_id": "C025",
+      "customer_name": "Blue Harbor Partners",
+      "archetype": "churn_risk",
+      "expected_priority": "HIGH",
+      "account_value": 54760.59,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C026",
+      "customer_name": "Fairwind Labs",
+      "archetype": "healthy",
+      "expected_priority": "LOW",
+      "account_value": 55639.74,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C027",
+      "customer_name": "Fairwind Retail",
+      "archetype": "churn_risk",
+      "expected_priority": "HIGH",
+      "account_value": 49519.81,
+      "segment": "SMB"
+    },
+    {
+      "customer_id": "C028",
+      "customer_name": "Solstice Partners",
+      "archetype": "low_value",
+      "expected_priority": "LOW",
+      "account_value": 11395.07,
+      "segment": "Enterprise"
+    }
+  ]
+}
