@@ -2,7 +2,7 @@
  * Typed-ish API client. Every call hits a real backend endpoint — there are no
  * mocked responses anywhere in this application.
  */
-const BASE: string = (import.meta.env.VITE_API_URL as string | undefined) ?? ''
+const BASE: string = 'https://decitrace-ai.onrender.com'
 
 export class ApiError extends Error {
   status: number
